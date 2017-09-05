@@ -1,6 +1,7 @@
 <?php 
 	$conn = mysqli_connect("localhost","root","","DBCerita");
 	//testing ubah momo
+	//testing update dari git
 	// if($host){
 	// 	echo "koneksi host berhasil.<br/>";
 	// }else{
