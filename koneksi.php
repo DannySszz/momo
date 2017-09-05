@@ -1,6 +1,6 @@
 <?php 
 	$conn = mysqli_connect("localhost","root","","DBCerita");
-	 
+	//testing ubah momo
 	// if($host){
 	// 	echo "koneksi host berhasil.<br/>";
 	// }else{
